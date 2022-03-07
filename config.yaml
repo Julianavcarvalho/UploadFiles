@@ -1,0 +1,4 @@
+---
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=tccimgstorageacc;AccountKey=db8mJ6NIf128tPk7SQSSDMwYMuZOxWW+yMuPfOKiuQYuWrxdV7le3ONHZuahNuvSY8pXcHznNRdR9awyRKd2qw==;EndpointSuffix=core.windows.net"
+imgprediction_container_name: "imgprediction"
+source_folder: "C:/Users/Juliana/Desktop/Upload"
